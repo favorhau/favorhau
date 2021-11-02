@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 👋 I'm <a href="https://github.com/favorhau/">Favorhau</a></h2>
 
 <p align="center"><img align="center" width="378" height="278" src="https://github.com/favorhau/favorhau/blob/main/hero-motio.gif"></p>
-<p align="center"><b>Hope that my code could make world more Fancy ✨</b> </p>
+<p align="center"><b>Hope that my code could make world more fancier ✨</b> </p>
 <p align="center">
   <a href="https://github.com/favorhau" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=favorhau&hide=issues&title_color=7ebdff&text_color=777" alt="favorhau's Stats" >
