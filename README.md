@@ -34,7 +34,6 @@
 
 ---
 
-📊 **This Week I Spent My Time On:**
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/43069fe07efa262ae26ebf3d2388cceb" target="_blank">📊 Weekly development breakdown</a>
 ```text
