@@ -14,6 +14,8 @@
 
 **Languages and Frameworks**
 
+
+<code><img height="20" src="https://shields.io/badge/style-Typescript-239DFF?logo=Typescript&style=flat-square&label=" alt="Python" title="Typescript"></code>
 <code><img height="20" src="https://shields.io/badge/style-Python-239DFF?logo=python&style=flat-square&label=" alt="Python" title="Javacript"></code>
 <code><img height="20" src="https://shields.io/badge/style-Javascript-yellow?logo=javascript&style=flat-square&label=" alt="Javacript" title="Javacript"></code>
 <code><img height="20" src="https://shields.io/badge/style-C%2B%2B-green?logo=C%2B%2B&style=flat-square&label=" alt="C++" title="C++"></code>
