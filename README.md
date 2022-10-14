@@ -34,7 +34,7 @@
 <code><img height="20" src="https://shields.io/badge/style-Centos-29ABE2?logo=Centos&style=flat-square&label=" alt="centos" title="centos"></code>
 
 ---
-*🎆Weekly development breakdown*
+**🎆Weekly development breakdown**
 
 <!--START_SECTION:waka-->
 
