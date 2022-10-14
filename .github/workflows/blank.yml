@@ -16,3 +16,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LANGUAGE_PER_REPO: "FALSE"
           SHOW_LANGUAGE: "TRUE"
+          SHOW_LOC_CHART: "FALSE"
+          SHOW_SHORT_INFO: "FALSE"
