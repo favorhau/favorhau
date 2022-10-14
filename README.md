@@ -36,8 +36,14 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
+```text
+TypeScript   14 hrs 30 mins  ██████████████████▒░░░░░░   73.45 %
+JavaScript   3 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
+Markdown     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+```
 
- Last Updated on 14/10/2022 16:36:45 UTC
 <!--END_SECTION:waka-->
