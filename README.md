@@ -36,24 +36,8 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 279 Contributions in the Year 2022
- > 
-> 📦 262.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/favorhau/favorhau/main/charts/bar_graph.png) 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 
- Last Updated on 14/10/2022 16:32:44 UTC
+ Last Updated on 14/10/2022 16:36:45 UTC
 <!--END_SECTION:waka-->
