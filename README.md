@@ -36,4 +36,36 @@
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 278 Contributions in the Year 2022
+ > 
+> 📦 262.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+TypeScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/favorhau/favorhau/main/charts/bar_graph.png) 
+
+
+ Last Updated on 14/10/2022 16:24:57 UTC
 <!--END_SECTION:waka-->
