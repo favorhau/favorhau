@@ -34,6 +34,6 @@
 <code><img height="20" src="https://shields.io/badge/style-Centos-29ABE2?logo=Centos&style=flat-square&label=" alt="centos" title="centos"></code>
 
 ---
-```
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
