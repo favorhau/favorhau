@@ -1,14 +1,21 @@
 <h1 align="center">Hi, 👋 I'm <a href="https://github.com/favorhau/">Favorhau</a></h2>
 
-<p align="center"><img align="center" width="378" height="278" src="https://github.com/favorhau/favorhau/blob/main/hero-motio.gif"></p>
-<p align="center"><b>Hope that my code could make world more fancier ✨</b> </p>
-<p align="center">
-  <a href="https://github.com/favorhau" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=favorhau&hide=issues&title_color=7ebdff&text_color=777" alt="favorhau's Stats" >
-  </a>
-</p>
-<h2></h2>
 
+
+  <a href="https://github.com/favorhau" class="rich-diff-level-one">
+      <img src="https://github-readme-stats.vercel.app/api?username=favorhau&hide=issues&title_color=7ebdff&text_color=777" alt="favorhau's Stats" align="right">
+  </a>
+  
+<br />
+
+- 👨‍🎓 An undergraduate in Canton
+- 💪 Dream of becoming a front-end or PM .
+- 訁 My commom language is Cantonese & Mandarin.
+- 😍 Recently loving songs by [Christopher Chak](https://genius.com/artists/Christopher-chak).
+
+
+<br />
+<hr/>
 
 <img align="right" width="128" height="128" src="https://github.com/favorhau/favorhau/blob/main/profile2.png">
 
@@ -17,9 +24,9 @@
 
 <code><img height="20" src="https://shields.io/badge/style-Typescript-239DFF?logo=Typescript&style=flat-square&label=" alt="Python" title="Typescript"></code>
 <code><img height="20" src="https://shields.io/badge/style-Javascript-yellow?logo=javascript&style=flat-square&label=" alt="Javacript" title="Javacript"></code>
-<code><img height="20" src="https://shields.io/badge/style-Python-239DFF?logo=python&style=flat-square&label=" alt="Python" title="Javacript"></code>
+<code><img height="20" src="https://shields.io/badge/style-Python-239DFF?logo=python&style=flat-square&label=" alt="Python" title="Python"></code>
+<code><img height="20" src="https://shields.io/badge/style-React-117ACA?logo=react&style=flat-square&label=React" alt="React" title="React"></code>
 <code><img height="20" src="https://shields.io/badge/style-C%2B%2B-green?logo=C%2B%2B&style=flat-square&label=" alt="C++" title="C++"></code>
-<code><img height="20" src="https://shields.io/badge/style-C-117ACA?logo=C&style=flat-square&label=" alt="C" title="C"></code>
 <code><img height="20" src="https://shields.io/badge/style-Node.js-white?logo=node.js&style=flat-square&label=" alt="node" title="node"></code>
 
 <br>
