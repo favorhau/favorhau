@@ -17,7 +17,6 @@
 <br />
 <hr/>
 
-<img align="right" width="128" height="128" src="https://github.com/favorhau/favorhau/blob/main/profile2.png">
 
 **Languages and Frameworks**
 
