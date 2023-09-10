@@ -46,11 +46,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript     1 hr 22 mins    █████████████████████▒░░░   84.71 %
-TypeScript     12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-Ezhil          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-ActionScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+JavaScript   1 hr 22 mins    █████████████████████▓░░░   86.50 %
+TypeScript   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
