@@ -46,9 +46,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       57 mins         ██████████████████████▒░░   89.56 %
-Markdown     6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     57 mins         ██████████████████████▒░░   89.80 %
+Markdown   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
 ```
 
 <!--END_SECTION:waka-->
