@@ -9,7 +9,7 @@
 <br />
 
 - 👨‍🎓 An undergraduate in Canton
-- 😜 An intern in Baidu.
+- 😜 Work in Meituan.
 - 💪 Dream of becoming a front-end engineer.
 - 訁 My commom language is Cantonese & Mandarin.
 - 😍 Recently loving songs by [Christopher Chak](https://genius.com/artists/Christopher-chak).
