@@ -46,11 +46,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      8 hrs 57 mins   ██████████████████░░░░░░░   72.12 %
-JSON            1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-JavaScript      1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-Other           30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-WiX Installer   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+TypeScript      8 hrs 36 mins   █████████████████▓░░░░░░░   70.80 %
+JavaScript      1 hr 42 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+JSON            55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Other           30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+WiX Installer   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
