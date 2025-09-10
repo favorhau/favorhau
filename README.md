@@ -46,11 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript      44 mins         ████████████▓░░░░░░░░░░░░   50.83 %
-Other           21 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
-WiX Installer   16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-TypeScript      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-JSON            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
